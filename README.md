@@ -1,0 +1,1 @@
+npm install -D eslint-plugin-import eslint-import-resolver-typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin
